@@ -28,6 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![SasS](https://img.shields.io/badge/-SasS-05122A?style=flat&logo=SasS)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 
 <br><br>
 
@@ -41,8 +42,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kevenalves&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenalves&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kevenalves&show_icons=true&theme=vision-friendly-dark" alt="Keven Alves stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenalves&layout=compact&theme=vision-friendly-dark" alt="Keven Alves most languages"/>
 </p>
 
 <br><br>
