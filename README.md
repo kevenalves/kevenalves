@@ -2,13 +2,13 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Keven Alves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevenalves&color=orange" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor web.
+- 🔥 Front End Developer | Analista de sistemas.
 
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
 <!-- - ▶️ I regulary post videos on []() -->
 
-- 💬 Participando atualmente do bootcamp Impulso React Web.
+- 💬 Participando atualmente do bootcamp Javascript Game Developer.
 
 - ⚡ Fun fact: **Já li tantos livros de fantasia que perdi as contas 😜**
 
