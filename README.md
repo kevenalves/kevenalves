@@ -8,7 +8,7 @@
 
 <!-- - ▶️ I regulary post videos on []() -->
 
-- 💬 Participando atualmente do bootcamp Javascript Game Developer.
+- 💬 Participando atualmente do bootcamp Javascript Game Developer na Digital Innovation One e da trilha React na Rocketseat.
 
 - ⚡ Fun fact: **Já li tantos livros de fantasia que perdi as contas 😜**
 
