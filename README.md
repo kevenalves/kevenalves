@@ -52,14 +52,14 @@
 ## Social Links
 
 <p align="left" style="background:yellow">
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/keven-alves-903b0a224/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kevenalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/kevenalvesm" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kevenalvesm-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="#" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-kevenalves-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-kevenalvesm@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
