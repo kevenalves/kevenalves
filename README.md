@@ -1,5 +1,5 @@
 <img align="right" height="593px" src="https://github.com/kevenalves/projetos-de-estudo/blob/main/card-keven.png?raw=true"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Keven Alves</h1>
+<h1 align="left">Hi dear 🖖, </br> I'm Keven Alves.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevenalves&color=orange" alt="Profile views" /> </p>
 
 - 🔥 Front End Developer | Analista de sistemas.
