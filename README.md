@@ -4,7 +4,7 @@
 
 💬 Atualmente desenvolvendo projetos práticos em engenharia de dados, com foco em pipelines ETL, SQL e processamento de dados.
 
-📚 Formação em Análise e Desenvolvimento de Sistemas e Banco de Dados - DBA - pelo (IFRS). <br>
+📚 Formação em Análise e Desenvolvimento de Sistemas e Banco de Dados. <br>
 
 <h3 align="left"> Sobre mim: </h3>
 
